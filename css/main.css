@@ -1,0 +1,14 @@
+/* 上水石 author:pengzg  公共部分 */
+/* 头部 */
+#head-div{width:100%; height: 100px;}
+#head-div>div{display: inline-block;vertical-align: top;}
+#head-div>.head-icon{width:40%;}
+#head-div>.head-icon img {margin-left:20%;width: 60%; height: 80px;margin-top:10px;}
+#head-div>.head-nav{width: 50%; height: 80px;}
+#head-div>.head-nav ul li{display: inline-block;font-size: 20px;line-height: 100px;width:100px;text-align: center;}
+/* 轮播图 */
+#mySwiper{margin-top:20px;}
+.swiper-container {width: 100%;height: 500px;}
+.swiper-wrapper img{ width: 100%;height: 500px;}
+/* 视频框 */
+
