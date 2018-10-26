@@ -11,4 +11,13 @@
 .swiper-container {width: 100%;height: 500px;}
 .swiper-wrapper img{ width: 100%;height: 500px;}
 /* 视频框 */
+#video-div{height:300px; width:100%;}
+#video-div>div{display: inline-block;vertical-align: top;}
+#video-div>div{display: inline-block;vertical-align: top;}
+#video-div>.text-box{width:40%;}
+#video-div>.video-box{width:50%;height: 380px;padding:30px;}
+#video-div>.video-box .video-content{width:80%;margin-top:30px;height: 320px;}
+#video-div>.video-box .video-content video{width:100%;height: 100%;}
+
+
 
