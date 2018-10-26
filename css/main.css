@@ -50,7 +50,7 @@ body{background-color: blue;}
 
 /* 关于我们 */
 #about-div{height: 400px;width:100%;}
-#about-div>div{height: 300px;width:80%;margin-left:10%;margin-top:80px;}
+#about-div>div{height: 370px;width:80%;margin-left:10%;margin-top:80px;background-color: white;}
 #about-div>div>div{display: inline-block;vertical-align: top;width:31%;padding:10px;}
 #about-div>div>div .about-title{height: 60px;font-weight: 300;font-size: 22px;line-height: 60px;}
 #about-div>div>div .about-img-box{height: 200px;width:100%; text-align: center;}
