@@ -47,15 +47,21 @@ body{background-color: blue;}
 #media-div .media-desc>div:nth-of-type(2){width:40%;padding-left:5%;overflow: hidden;}
 #media-div .media-desc>div:nth-of-type(2)>div>div:nth-of-type(1){height: 40px;color: red;font-size: 22px;font-weight: 300;line-height: 40px;}
 #media-div .media-desc>div:nth-of-type(2)>div>div:nth-of-type(2){height: 30px;font-size: 18px;line-height: 30px;}
-
+/* 立即购买 */
+#qrcode-div{height: 400px;width: 100%;}
+#qrcode-div .qrcode-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:10%;}
+#qrcode-div .qrcode-box{height: 200px;width:100%;text-align: center;}
+#qrcode-div .qrcode-box img{height: 200px;}
 /* 关于我们 */
-#about-div{height: 400px;width:100%;}
+#about-div{height: 400px;width:100%;background:#fff;}
 #about-div>div{height: 370px;width:80%;margin-left:10%;margin-top:80px;background-color: white;}
 #about-div>div>div{display: inline-block;vertical-align: top;width:31%;padding:10px;}
 #about-div>div>div .about-title{height: 60px;font-weight: 300;font-size: 22px;line-height: 60px;}
 #about-div>div>div .about-img-box{height: 200px;width:100%; text-align: center;}
 #about-div>div>div .about-img-box img{height: 200px;}
 #about-div>div>div .about-text{font-size: 16px;line-height: 24px;margin-top:30px;}
+
+
 
 /* 底部版权 */
 #footer-div{width:100%;}
