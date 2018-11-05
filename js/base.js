@@ -13,7 +13,7 @@ $(function(){
        
       });
 
-      $('#imgSwiper').swiper({
+      /* $('#imgSwiper').swiper({
         //分页器
         pagination:'#imgSwiper .swiper-pagination'
         ,paginationClickable:true
@@ -23,7 +23,7 @@ $(function(){
         //循环
         , loop:true       
       });
-
+ */
       $('#imgSwiper1').swiper({
         //分页器
         pagination:'#imgSwiper1 .swiper-pagination'

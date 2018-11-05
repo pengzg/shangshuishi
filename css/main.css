@@ -95,8 +95,9 @@ body{background-color: #7AD0F3;}
 
 
 /* 立即购买 */
-#qrcode-div{height: 330px;width: 100%;color:white;background-color: #7AD0F3}
+#qrcode-div{height: 390px;width: 100%;color:white;background-color: #7AD0F3}
 #qrcode-div .qrcode-div-title{text-align:center;height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;}
+#qrcode-div .qrcode-div-desc{text-align:center;height: auto;width:16%;line-height: 32px;font-size: 18px;margin-left:42%;}
 #qrcode-div .qrcode-box{height: 200px;width:100%;text-align: center;}
 #qrcode-div .qrcode-box img{height: 200px;}
 /* 关于我们 */
