@@ -1,72 +1,85 @@
 /* 上水石 author:pengzg  公共部分 */
 body{background-color: #7AD0F3;}
 /* 头部 */
-#head-div{width:100%; height: 100px;background-color: white;border-bottom: 3px solid #ccc;}
+#head-div{width:100%; height: 120px;background-color: white;border-bottom: 3px solid #ccc;}
 #head-div>div{display: inline-block;vertical-align: top;}
 #head-div>.head-icon{margin-left:10%;width:20%;}
-#head-div>.head-icon img {height: 80px;margin-top:10px;}
-#head-div>.head-nav{width: 50%; height: 80px;}
-#head-div>.head-nav ul li{display: inline-block;font-size: 20px;line-height: 30px;width:100px;text-align: center;margin-top:35px;}
+#head-div>.head-icon img {height: 90px;margin-top:18px;}
+#head-div>.head-nav{width: 50%; height: 120px;}
+#head-div>.head-nav ul li{color:#ccc;;display: inline-block;font-size: 21px;line-height: 30px;width:140px;text-align: center;margin-top:59px;}
 /* #head-div>.head-nav ul li a{color:white;} */
 /* 轮播图 */
-#mySwiper{margin-top:0px;}
-#mySwiper .swiper-container {width: 100%;height: 500px;}
+#mySwiper{margin-top:0px;height:500px;}
+#mySwiper .swiper-container {width: 100%;}
 #mySwiper .swiper-wrapper img{ width: 100%;}
+
+
+
+
+
+.video-content video{height: 406px;}
+
 /* 视频框 */
-#video-div{height:440px; width:100%;background:#fff;}
-#video-div>div{display: inline-block;vertical-align: top;}
+#video-div {height: 500px;width:100%;background:#fff;color:#333;}
+#video-div .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#video-div .media-desc{height: 406px;width:100%;}
+#video-div .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#video-div .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
 
-#video-div>.text-box{padding-left:10%;width:30%;}
-#video-div>.text-box>div:nth-of-type(1){height: 60px;font-size: 26px;font-weight: 300;margin-top:50px;line-height: 60px;}
-#video-div>.text-box>div:nth-of-type(2){height: 200px;font-size: 18px;}
+#video-div .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#video-div .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
 
-#video-div>.video-box{width:50%;height: 380px;padding:30px;}
-#video-div>.video-box .video-content{width:80%;margin-top:30px;height: 320px;position: relative;}
-#video-div>.video-box .video-content video{height: 100%;left:75%;margin-left:-50%;position: absolute;}
+
 
 
 /* 深山出好水 */
-#media-div1 {height: 510px;width:100%;background:#7AD0F3;color:white;}
-#media-div1 .goods-div-title{height: 80px;width:38%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:55%;}
-#media-div1 .media-desc{height: 350px;width:100%;}
-#media-div1 .media-desc>div{display: inline-block;vertical-align: top;}
-#media-div1 .media-desc>div:nth-of-type(1){width:40%;padding-left:10%;overflow: hidden;}
+#media-div1 {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div1 .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div1 .media-desc{height: 406px;width:100%;}
+#media-div1 .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div1 .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;}
 /* 轮播图 */
 #imgSwiper1 {margin-top:0px;}
-#imgSwiper1 .swiper-container {width: 100%;height: 350px;}
-#imgSwiper1 .swiper-wrapper img{ width: 100%;height: 350px;}
-#media-div1 .media-desc>div:nth-of-type(2){width:40%;padding-left:5%;overflow: hidden;font-size: 20px;text-indent:2em;padding-top:30px;}
+#imgSwiper1 .swiper-container {height: 406px;}
+#imgSwiper1 .swiper-wrapper img{ height: 406px;}
+#media-div1 .media-desc>div:nth-of-type(2)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div1 .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
 
 
 
 
 
 /* 小分子弱碱性水 */
-#media-div2 {height: 510px;width:100%;background:#fff;}
-#media-div2 .goods-div-title{height: 80px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:10%;}
-#media-div2 .media-desc{height: 350px;width:100%;}
-#media-div2 .media-desc>div{display: inline-block;vertical-align: top;}
-#media-div2 .media-desc>div:nth-of-type(2){width:40%;padding-left:10%;overflow: hidden;}
+#media-div2 {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div2 .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div2 .media-desc{height: 406px;width:100%;}
+#media-div2 .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div2 .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
 /* 轮播图 */
 #imgSwiper2 {margin-top:0px;}
-#imgSwiper2 .swiper-container {width: 100%;height: 350px;}
-#imgSwiper2 .swiper-wrapper img{ width: 100%;height: 350px;}
-#media-div2 .media-desc>div:nth-of-type(1){width:40%;padding-left:5%;overflow: hidden;font-size: 20px;text-indent:2em;padding-top:30px;}
+#imgSwiper2 .swiper-container {height: 406px;}
+#imgSwiper2 .swiper-wrapper img{ height: 406px;}
+#media-div2 .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div2 .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
 
 
-/* 新鲜到您家 */
-#media-div {height: 510px;width:100%;background:#7AD0F3;color:white;}
-#media-div .goods-div-title{height: 80px;width:38%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:55%;}
-#media-div .media-desc{height: 350px;width:100%;}
-#media-div .media-desc>div{display: inline-block;vertical-align: top;}
-#media-div .media-desc>div:nth-of-type(1){width:40%;padding-left:10%;overflow: hidden;}
+
+
+/* 深山出好水 */
+#media-div {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div .media-desc{height: 406px;width:100%;}
+#media-div .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;}
 /* 轮播图 */
 #imgSwiper {margin-top:0px;}
-#imgSwiper .swiper-container {width: 100%;height: 350px;}
-#imgSwiper .swiper-wrapper img{ width: 100%;height: 350px;}
-#media-div .media-desc>div:nth-of-type(2){width:40%;padding-left:5%;overflow: hidden;font-size: 20px;text-indent:2em;padding-top:30px;}
-/* #media-div .media-desc>div:nth-of-type(2)>div>div:nth-of-type(1){height: 40px;color: red;font-size: 22px;font-weight: 300;line-height: 40px;}
-#media-div .media-desc>div:nth-of-type(2)>div>div:nth-of-type(2){height: 30px;font-size: 18px;line-height: 30px;} */
+#imgSwiper .swiper-container {height: 406px;}
+#imgSwiper .swiper-wrapper img{ height: 406px;}
+#media-div .media-desc>div:nth-of-type(2)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
 
 #media-div4 {height: 510px;width:100%;}
 #media-div4 .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:10%;}
@@ -81,12 +94,13 @@ body{background-color: #7AD0F3;}
 
 
 /* 产品 */
-#goods-div{height: 464px;width:100%;background:#fff;}
+#goods-div{height: 500px;width:100%;background:#fff;}
 #goods-div .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;text-align: center;}
-#goods-div .goods-div-desc{width:70%;font-size: 20px;text-indent:2em;padding-top:5px;padding-left:15%;padding-bottom: 30px;}
+#goods-div .goods-div-desc{width:50%;font-size: 20px;text-indent:2em;padding-top:5px;padding-left:25%;padding-bottom: 30px;}
 
 #goods-div .goods-div-list{height: 542px;width:100%;}
-#goods-div .goods-div-list>div{display: inline-block;vertical-align: top;width:20%;margin-left:10%;}
+#goods-div .goods-div-list>div{display: inline-block;vertical-align: top;width:20%;}
+#goods-div .goods-div-list>div:nth-of-type(1){margin-left: 20%;}
 #goods-div .goods-div-list>div .goods-img{ height: 150px;width:100%;text-align: center;}
 #goods-div .goods-div-list>div .goods-img img{ height: 150px;width:150px;}
 #goods-div .goods-div-list>div .goods-title {font-size: 22px;height:60px;line-height: 60px;text-align: center;}
