@@ -93,6 +93,21 @@ body{background-color: #f0f0f0;}
 #media-div4 .media-desc>div:nth-of-type(1){width:40%;padding-left:5%;overflow: hidden;font-size: 20px;text-indent:2em;padding-top:30px;}
 
 
+/* 关于我们新版 */
+#about-new {height: 500px;width:100%;background:#fff;color:#333;}
+#about-new .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#about-new .media-desc{height: 406px;width:100%;}
+#about-new .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#about-new .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
+/* 轮播图 */
+#aboutSwiper {margin-top:0px;}
+#aboutSwiper .swiper-container {height: 406px;}
+#aboutSwiper .swiper-wrapper img{ height: 406px;}
+#about-new .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#about-new .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
 /* 产品 */
 #goods-div{height: 500px;width:100%;background:#fff;}
 #goods-div .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;text-align: center;}
@@ -115,7 +130,7 @@ body{background-color: #f0f0f0;}
 #qrcode-div .qrcode-box{height: 200px;width:100%;text-align: center;}
 #qrcode-div .qrcode-box img{height: 200px;}
 /* 关于我们 */
-#about-div{height: 400px;width:100%;background:#fff;}
+#about-div{height: 400px;width:100%;background:#fff;display:none;}
 #about-div>div{height: 370px;width:80%;margin-left:10%;margin-top:80px;background-color: white;}
 #about-div>div>div{display: inline-block;vertical-align: top;width:31%;padding:10px;}
 #about-div>div>div .about-title{height: 60px;font-weight: 300;font-size: 22px;line-height: 60px;}
