@@ -1,5 +1,5 @@
 /* 上水石 author:pengzg  公共部分 */
-body{background-color: #7AD0F3;}
+body{background-color: #f0f0f0;}
 /* 头部 */
 #head-div{width:100%; height: 120px;background-color: white;border-bottom: 3px solid #ccc;}
 #head-div>div{display: inline-block;vertical-align: top;}
@@ -17,7 +17,7 @@ body{background-color: #7AD0F3;}
 
 
 
-.video-content video{height: 406px;}
+.video-content video{height: 406px;width:100%;}
 
 /* 视频框 */
 #video-div {height: 500px;width:100%;background:#fff;color:#333;}
@@ -96,7 +96,7 @@ body{background-color: #7AD0F3;}
 /* 产品 */
 #goods-div{height: 500px;width:100%;background:#fff;}
 #goods-div .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;text-align: center;}
-#goods-div .goods-div-desc{width:50%;font-size: 20px;text-indent:2em;padding-top:5px;padding-left:25%;padding-bottom: 30px;}
+#goods-div .goods-div-desc{width:50%;text-indent:2em;padding-top:5px;padding-left:25%;padding-bottom: 30px;line-height: 30px;font-size: 16px;}
 
 #goods-div .goods-div-list{height: 542px;width:100%;}
 #goods-div .goods-div-list>div{display: inline-block;vertical-align: top;width:20%;}
@@ -109,7 +109,7 @@ body{background-color: #7AD0F3;}
 
 
 /* 立即购买 */
-#qrcode-div{height: 390px;width: 100%;color:white;background-color: #7AD0F3}
+#qrcode-div{height: 390px;width: 100%;}
 #qrcode-div .qrcode-div-title{text-align:center;height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;}
 #qrcode-div .qrcode-div-desc{text-align:center;height: auto;width:16%;line-height: 32px;font-size: 18px;margin-left:42%;}
 #qrcode-div .qrcode-box{height: 200px;width:100%;text-align: center;}
