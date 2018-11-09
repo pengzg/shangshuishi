@@ -1,0 +1,159 @@
+/* 上水石 author:pengzg  公共部分 */
+body{background-color: #f0f0f0;}
+/* 头部 */
+#head-div{width:100%; height: 120px;background-color: white;border-bottom: 3px solid #ccc;}
+#head-div>div{display: inline-block;vertical-align: top;}
+#head-div>.head-icon{margin-left:10%;width:20%;}
+#head-div>.head-icon img {height: 90px;margin-top:18px;}
+#head-div>.head-nav{width: 50%; height: 120px;}
+#head-div>.head-nav ul li{color:#0D6CA4;;display: inline-block;font-size: 21px;line-height: 30px;width:140px;text-align: center;margin-top:59px;}
+#head-div>.head-nav ul li a{color:#0D6CA4;} 
+/* 轮播图 */
+#mySwiper{margin-top:0px;height:500px;}
+#mySwiper .swiper-container {width: 100%;}
+#mySwiper .swiper-wrapper img{ width: 100%;}
+
+.video-content video{width:100%;}
+
+/* 视频框 */
+#video-div {height: 500px;width:100%;background:#fff;color:#333;}
+#video-div .goods-top-title{height: 56px;width:10%;line-height: 70px;font-weight: 300;font-size: 26px;margin:auto;border-bottom: 12px solid red;text-align: center;}
+#video-div .goods-div-title{height: 60px;line-height: 60px;font-weight: 300;font-size: 18px;border-top: 1px solid #abcdef;text-align: center;}
+#video-div .media-desc{height: 406px;width:100%;}
+#video-div .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#video-div .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
+
+#video-div .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#video-div .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
+
+/* 深山出好水 */
+#media-div1 {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div1 .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div1 .media-desc{height: 406px;width:100%;}
+#media-div1 .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div1 .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;}
+/* 轮播图 */
+#imgSwiper1 {margin-top:0px;}
+#imgSwiper1 .swiper-container {height: 406px;}
+#imgSwiper1 .swiper-wrapper img{ height: 406px;}
+#media-div1 .media-desc>div:nth-of-type(2)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div1 .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
+
+
+/* 小分子弱碱性水 */
+#media-div2 {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div2 .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div2 .media-desc{height: 406px;width:100%;}
+#media-div2 .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div2 .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
+/* 轮播图 */
+#imgSwiper2 {margin-top:0px;}
+#imgSwiper2 .swiper-container {height: 406px;}
+#imgSwiper2 .swiper-wrapper img{ height: 406px;}
+#media-div2 .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div2 .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
+
+/* 深山出好水 */
+#media-div {height: 500px;width:100%;background:#fff;color:#333;}
+#media-div .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#media-div .media-desc{height: 406px;width:100%;}
+#media-div .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#media-div .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;}
+/* 轮播图 */
+#imgSwiper {margin-top:0px;}
+#imgSwiper .swiper-container {height: 406px;}
+#imgSwiper .swiper-wrapper img{ height: 406px;}
+#media-div .media-desc>div:nth-of-type(2)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#media-div .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
+
+#media-div4 {height: 510px;width:100%;}
+#media-div4 .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:10%;}
+#media-div4 .media-desc{height: 350px;width:100%;}
+#media-div4 .media-desc>div{display: inline-block;vertical-align: top;}
+#media-div4 .media-desc>div:nth-of-type(2){width:40%;padding-left:10%;overflow: hidden;}
+/* 轮播图 */
+#imgSwiper4{margin-top:0px;}
+#imgSwiper4 .swiper-container {width: 100%;height: 350px;}
+#imgSwiper4 .swiper-wrapper img{ width: 100%;height: 350px;}
+#media-div4 .media-desc>div:nth-of-type(1){width:40%;padding-left:5%;overflow: hidden;font-size: 20px;text-indent:2em;padding-top:30px;}
+
+
+/* 关于我们新版 */
+#about-new {height: 500px;width:100%;background:#fff;color:#333;}
+#about-new .goods-div-title{height: 47px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#about-new .media-desc{height: 406px;width:100%;}
+#about-new .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#about-new .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
+/* 轮播图 */
+#aboutSwiper {margin-top:0px;}
+#aboutSwiper .swiper-container {height: 406px;}
+#aboutSwiper .swiper-wrapper img{ height: 406px;}
+#about-new .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#about-new .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#333;line-height: 30px;}
+
+
+
+/* 产品 */
+#goods-div{height: 500px;width:100%;background:#fff;}
+#goods-div .goods-div-title{height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;text-align: center;}
+#goods-div .goods-div-desc{width:50%;text-indent:2em;padding-top:5px;padding-left:25%;padding-bottom: 30px;line-height: 30px;font-size: 16px;}
+
+#goods-div .goods-div-list{height: 542px;width:100%;}
+#goods-div .goods-div-list>div{display: inline-block;vertical-align: top;width:20%;}
+#goods-div .goods-div-list>div:nth-of-type(1){margin-left: 20%;}
+#goods-div .goods-div-list>div .goods-img{ height: 150px;width:100%;text-align: center;}
+#goods-div .goods-div-list>div .goods-img img{ height: 150px;width:150px;}
+#goods-div .goods-div-list>div .goods-title {font-size: 22px;height:60px;line-height: 60px;text-align: center;}
+#goods-div .goods-div-list>div .goods-desc {font-size: 20px;display: none;}
+
+
+
+/* 立即购买 */
+#qrcode-div{height: 390px;width: 100%;}
+#qrcode-div .qrcode-div-title{text-align:center;height: 80px;width:100%;line-height: 80px;font-weight: 300;font-size: 26px;}
+#qrcode-div .qrcode-div-desc{text-align:center;height: auto;width:16%;line-height: 32px;font-size: 18px;margin-left:42%;}
+#qrcode-div .qrcode-box{height: 200px;width:100%;text-align: center;}
+#qrcode-div .qrcode-box img{height: 200px;}
+/* 关于我们 */
+#about-div{height: 400px;width:100%;background:#fff;display:none;}
+#about-div>div{height: 370px;width:80%;margin-left:10%;margin-top:80px;background-color: white;}
+#about-div>div>div{display: inline-block;vertical-align: top;width:31%;padding:10px;}
+#about-div>div>div .about-title{height: 60px;font-weight: 300;font-size: 22px;line-height: 60px;}
+#about-div>div>div .about-img-box{height: 200px;width:100%; text-align: center;}
+#about-div>div>div .about-img-box img{height: 200px;}
+#about-div>div>div .about-text{font-size: 16px;line-height: 24px;margin-top:30px;background-color: #abcdef;}
+
+
+
+/* 底部版权 */
+#footer-div{width:100%;}
+#footer-div .copyright-box{font-size: 16px;text-align: center;line-height: 50px;height: 50px;border-top:1px solid #ccc;}
+
+/* 关于我们新版 */
+#foot-new {height: 200px;width:100%;background:#fff;color:#333;}
+#foot-new .goods-div-title{height: 20px;width:90%;line-height: 80px;font-weight: 300;font-size: 26px;padding-left:5%;}
+#foot-new .media-desc{height: 111px;width:100%;}
+#foot-new .media-desc>div{width:42%;display: inline-block;vertical-align: top;}
+#foot-new .media-desc>div:nth-of-type(2){padding-left:1.5rem;overflow: hidden;}
+/* 轮播图 */
+#footSwiper {margin-top:0px;height: 111px;}
+#footSwiper .swiper-container {height: 111px;}
+#footSwiper .swiper-wrapper img{ height: 100px;margin-left:238px;margin-top:6px;}
+#foot-new .media-desc>div:nth-of-type(1)>h1{font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+#foot-new .media-desc>div:nth-of-type(1){padding-left:7%;overflow: hidden;font-size: 16px;color:#fff;line-height: 30px;}
+
+.common-title{height: 570px;}
+.common-title .goods-top-title{height: 56px;width:10%;line-height: 70px;font-weight: 300;font-size: 26px;margin:auto;border-bottom: 12px solid red;text-align: center;}
+.common-title .goods-div-title{height: 60px;line-height: 60px;font-weight: 300;font-size: 18px;border-top: 1px solid #abcdef;text-align: center;}
