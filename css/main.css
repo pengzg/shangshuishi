@@ -25,13 +25,14 @@ body{background-color: #f0f0f0;}
 .content-item .media-desc> .desc-pic .img-box img{height: 200px;}
 
 /* 文字 */
-.content-item .media-desc .desc-text >h1{border-left: 12px solid #abcdef;padding-left: 10px;font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;}
+.content-item .media-desc .desc-text >h1{border-left: 12px solid red;padding-left: 10px;font-size: 1.5em;font-weight: 500;line-height: 1.6;margin: 0 0 1.6rem 0;color: #116CB0;}
 .content-item .media-desc .desc-text {width:42%; overflow: hidden;font-size: 16px;color:#333;line-height: 30px;margin-left:5%;}
 .content-item .media-desc .desc-text .qrcode-box{width:100%;text-align: center;}
 .content-item .media-desc .desc-text .qrcode-box div{width:100%;text-align: left; line-height: 80px;}
 .content-item .media-desc .desc-text .qrcode-box img {width:100px;}
 /* 合伙人 */
-.content-item .partner-box{width:100%;}
+.content-item .partner-box{width:100%;position: relative;}
+.content-item .partner-box .tel{width:100%;position: absolute;left:28%;top:374px; height: 73px;width:47%;background:#DDB870;color:#000;border-radius: 36.5px;text-align: center;line-height: 73px;font-size: 36px;}
 /* 关于我们 */
 .content-item .about-box{width:89%;margin: auto;}
 .content-item .about-box>div{display: inline-block;vertical-align: top;}
