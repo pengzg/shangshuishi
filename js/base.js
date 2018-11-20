@@ -6,7 +6,7 @@ $(function(){
         pagination:'#mySwiper .swiper-pagination'
         ,paginationClickable:true
         //自动播放
-        ,autoplay:2000
+        ,autoplay:5000
         ,autoplayDisableOnInteraction:false
         //循环
         , loop:true
