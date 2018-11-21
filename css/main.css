@@ -16,8 +16,8 @@ body{background-color: #f0f0f0;}
 
 /* 公共样式 */
 .content-item {height: 650px;width:100%;background:#fff;color:#333;}
-.content-item .goods-top-title{height: 57px;width:10%;line-height: 70px;font-weight: 300;font-size: 26px;margin:auto;border-bottom: 11px solid red;text-align: center;}
-.content-item .goods-div-title{height: 116px;line-height: 100px;font-weight: 300;font-size: 26px;border-top: 1px solid #abcdef;text-align: center;}
+.content-item .goods-top-title{height: 57px;width:10%;;line-height: 70px;font-size: 26px;margin:auto;border-bottom: 11px solid red;text-align: center;}
+.content-item .goods-div-title{height: 116px;line-height: 100px;font-size: 26px;border-top: 1px solid #abcdef;text-align: center;}
 .content-item .media-desc{height: 425px;width:1171px;margin:auto;}
 .content-item .media-desc> div{display: inline-block;vertical-align: top;}
 /* 图片 */
@@ -47,11 +47,13 @@ body{background-color: #f0f0f0;}
 .content-item .partner-box .check-box>div>div:nth-of-type(1){width:18%;}
 .content-item .partner-box .check-box>div>div:nth-of-type(2){width:74%;font-size: 23px;color:white;}
 /* 关于我们 */
-.content-item .about-box{width:89%;margin: auto;}
+.content-item .about-box{width:89%;margin: auto;position: relative;}
 .content-item .about-box>div{display: inline-block;vertical-align: top;}
 .content-item .about-box .pic-box{width: 24%;padding-top:16px;}
 .content-item .about-box .pic-box img{height: 77px;}
 .content-item .about-box .company-info{width:75%;font-size: 16px;}
+.content-item .about-box .top{position: absolute;top:-81px;background-color:#eee; right:30px;height: 60px;width:60px;border-radius: 50%;text-align: center;}
+.content-item .about-box .top img{margin-top: 23px;}
 
 /* 底部版权 */
 #footer-div{width:100%;height: 110px; color: white;background-color: #1D268B;}
