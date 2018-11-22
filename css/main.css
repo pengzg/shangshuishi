@@ -36,7 +36,7 @@ body{background-color: #f0f0f0;}
 .content-item .media-desc> .desc-text .img-box img{height: 150px;}
 
 /* 合伙人 */
-.content-item .partner-box{width:100%;position: relative;background-color: #1D268B;height: 614px;}
+.content-item .partner-box{width:100%;position: relative;height:auto;}
 .content-item .partner-box .tel{position: absolute;left:28%;top:374px; height: 73px;width:47%;background:#DDB870;color:#000;border-radius: 36.5px;text-align: center;line-height: 73px;font-size: 38px;font-weight: bold;}
 .content-item .partner-box .text1{position: absolute;left:29.5%;top:103px; height: 73px;width:41%;color:#DDB870;text-align: center;line-height: 73px;font-size: 38px;background-color: #1D268B; z-index: 15;}
 .content-item .partner-box .text2{position: absolute;left:26%;top:211px; height: 73px;width:48%;color:#DDB870;text-align: center;line-height: 73px;font-size: 47px;background-color: #1D268B;z-index: 15;}
