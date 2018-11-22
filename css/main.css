@@ -6,7 +6,7 @@ body{background-color: #f0f0f0;}
 #head-div>.head-icon{width:22%;}
 #head-div>.head-icon img {height: 77px;margin-top:5px;}
 #head-div>.head-nav{width: 50%; height: 120px;}
-#head-div>.head-nav ul li{color:#0D6CA4;;display: inline-block;font-size: 21px;line-height: 30px;width:24%;text-align: center;margin-top:28px;}
+#head-div>.head-nav ul li{color:#0D6CA4;display: inline-block;font-size: 21px;line-height: 30px;width:24%;text-align: center;margin-top:28px;}
 #head-div>.head-nav ul li a{color:#0D6CA4;} 
 /* 轮播图 */
 #mySwiper{margin-top:0px;height: auto;text-align: center; width:100%;overflow: visible;overflow-x: hidden;}
