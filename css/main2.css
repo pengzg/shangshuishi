@@ -1,24 +1,24 @@
 /* 上水石 author:pengzg  公共部分 */
 body{background-color: #f0f0f0;}
 /* 头部 */
-#head-div{width:1171px;margin:auto; height: 87px;background-color: white;border-bottom: 1px solid #ccc;}
+#head-div{width:100%; height: 87px;background-color: white;border-bottom: 1px solid #ccc;}
 #head-div>div{display: inline-block;vertical-align: top;}
-#head-div>.head-icon{width:22%;}
+#head-div>.head-icon{margin-left:10%;width:20%;}
 #head-div>.head-icon img {height: 77px;margin-top:5px;}
 #head-div>.head-nav{width: 50%; height: 120px;}
 #head-div>.head-nav ul li{color:#0D6CA4;;display: inline-block;font-size: 21px;line-height: 30px;width:24%;text-align: center;margin-top:28px;}
 #head-div>.head-nav ul li a{color:#0D6CA4;} 
 /* 轮播图 */
-#mySwiper{margin-top:0px;height: auto;text-align: center; width:100%;overflow: visible;overflow-x: hidden;}
+/* #mySwiper{margin-top:0px;height: auto;text-align: center; width:100%;overflow: visible;overflow-x: hidden;}
 #mySwiper .swiper-container {height: auto;width:100%;overflow: visible;overflow-x: hidden;}
 #mySwiper .swiper-slide, .swiper-wrapper{height: auto;}
-#mySwiper .swiper-wrapper img{height: auto;width:100%;} 
+#mySwiper .swiper-wrapper img{height: auto;width:100%;} */
 /* 轮播图 */
-/* #mySwiper{margin-top:0px;height: 500px;text-align: center; width:100%;overflow: visible;overflow-x: hidden;}
+#mySwiper{margin-top:0px;height: 500px;text-align: center; width:100%;overflow: visible;overflow-x: hidden;}
 #mySwiper .swiper-container {height: 500px;width:100%;overflow: visible;overflow-x: hidden;}
 #mySwiper .swiper-slide, .swiper-wrapper{height: 500px;}
 #mySwiper .swiper-background{background-position: center;-webkit-background-size:cover;-ms-background-size:cover;background-repeat: no-repeat;}
-#mySwiper .swiper-wrapper img{height: 500px;width:100%;} */
+#mySwiper .swiper-wrapper img{height: 500px;width:100%;}
 
 /* 公共样式 */
 .content-item {height: 650px;width:100%;background:#fff;color:#333;}
