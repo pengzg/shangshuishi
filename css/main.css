@@ -1,7 +1,7 @@
 /* 上水石 author:pengzg  公共部分 */
 body{background-color: #f0f0f0;}
 /* 头部 */
-#head-div{width:1171px;margin:auto; height: 87px;background-color: white;border-bottom: 1px solid #ccc;}
+#head-div{width:1171px;margin:auto; height: auto;background-color: white;border-bottom: 1px solid #ccc;}
 #head-div>div{display: inline-block;vertical-align: top;}
 #head-div>.head-icon{width:22%;}
 #head-div>.head-icon img {height: 77px;margin-top:5px;}

@@ -1,0 +1,45 @@
+/* 上水石 author:pengzg  公共部分 */
+body{background-color: #f0f0f0;}
+/* 头部 */
+#head-div{width:100%;margin:auto; height: auto;position: relative;text-align: center;}
+#head-div .head-bk{height:auto;width:100%;}
+#head-div>.head-nav{width:1171px;height: 120px;margin:auto;position:absolute;top:0px;margin-left:50%;left:-585.5px;}
+#head-div>.head-nav ul li{display: inline-block;font-size: 21px;line-height: 30px;width:13%;text-align: center;margin-top:28px;}
+#head-div>.head-nav ul li a{color:#fff;} 
+
+/* 公共样式 */
+.content-item {height: auto;width:100%;background:#fff;color:#333;}
+.content-item .content-head{width:100%;height: 90px;position: relative;}
+.content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#666;top:40px;}
+.content-item .content-head .content-head-title{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;}
+.content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
+.content-item .content-text {height:35px; font-size: 22px;font-weight: 600;line-height: 35px;background: #fff;text-align: center;margin:auto;}
+.content-item .content-main {width:1000px;margin:auto;}
+.content-item .content-main .main-text{text-align: justify;}
+.content-item .content-main .main-pic img{width:300px;}
+.content-item .content-main .hlw-pic{width:100%;}
+
+
+/* 视频 */
+#video-box {width:100%;position: relative;height: 547px;}
+#video-box img{width:100%;}
+#video-box .video-con{position: absolute;height:400px;width:50%;top:73px;left:50%;margin-left:-25%;}
+#video-box .video-con video{width:100%;height: 100%;}
+
+/* 底部版权 */
+#footer-div{width:100%;height: 110px; color: white;background-color: #1D268B;}
+#footer-div .copyright-box{font-size: 14px;text-align: center;line-height: 28px;height: 26px;}
+
+
+
+/* 轮播图 */
+#imgSwiper1{margin-top:0px;height:425px;}
+#imgSwiper1 .swiper-container {width: 100%;height: 425px;}
+#imgSwiper1 .swiper-wrapper img{ width: 100%;height: 425px;}
+
+/* 轮播图 */
+#imgSwiper2{margin-top:0px;height:425px;}
+#imgSwiper2 .swiper-container {width: 100%;height: 425px;}
+#imgSwiper2 .swiper-wrapper img{ width: 100%;height: 425px;}
+
+
