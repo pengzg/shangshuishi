@@ -1,35 +1,37 @@
 /* 上水石 author:pengzg  公共部分 */
-body{background-color: #f0f0f0;font-family:"PingFangSC-Regular" , "sans-serif";}
+body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 /* 头部 */
 #head-div{width:100%;margin:auto; height: auto;position: relative;text-align: center;}
 #head-div .head-bk{height:auto;width:100%;}
 #head-div>.head-nav{width:1171px;height: 120px;margin:auto;position:absolute;top:0px;margin-left:50%;left:-585.5px;}
 #head-div>.head-nav ul li{display: inline-block;font-size: 21px;line-height: 30px;width:13%;text-align: center;margin-top:28px;}
-#head-div>.head-nav ul li a{color:#fff;} 
+#head-div>.head-nav ul li a{color:#fff;font-weight: 600;} 
+#head-div .logo{position: absolute;left:50%;margin-left:-40px;top:0px;}
 
 /* 公共样式 */
 .content-item {height: auto;width:100%;background:#fff;color:#333;}
 .content-item .content-head{width:100%;height: 90px;position: relative;}
-.content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#666;top:40px;}
+.content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#395eb7;top:40px;}
 .content-item .content-head .content-head-title{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;}
 .content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
 
-.content-item .content-text {height:35px; font-size: 22px;font-weight: 400;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:60px;margin-bottom: 15px;}
+.content-item .content-text {height:35px; font-size: 22px;font-weight: bold;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:20px;margin-bottom: 15px;}
 
 .content-item .content-main {width:1000px;margin:auto;}
 
-.content-item .content-main .main-text{text-align: justify;}
+.content-item .content-main .main-text{text-align: justify;margin-top:40px;font-weight: bold;line-height: 25px;}
 
-.content-item .content-main .main-pic img{width:300px;}
+.content-item .content-main .main-pic img{width:300px;margin-top:50px;}
 
 .content-item .content-main .hlw-pic{width:100%;}
 
 .content-item .content-main .main-water-source>div{display: inline-block;vertical-align: top;width:300px;height: 170px;position: relative;}
 .content-item .content-main .main-water-source>div img{height: 170px;width:300px;}
-.content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;}
+.content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;font-weight: bold;color: white;opacity: 0.8;}
+.content-item .content-main .main-water-source>div>span.t-line{position: absolute;height: 60px;line-height: 30px;width:120px;top:55px;left:90px;text-align: center;background-color: #666;}
 /* 物业合作 */
 .content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:333px;height: 170px;background:#ccc;}
-.content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 40px;line-height: 40px;}
+.content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 64px;line-height: 64px;}
 .content-item .content-main .cooperation-box>div .coop-text{width:280px;margin-left:26.5px;}
 /* 城市合伙人 */
 .content-item .content-main .partner-box>div{display: inline-block;vertical-align: top;height:300px;background:#ccc;}
@@ -57,7 +59,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Regular" , "sans-serif";}
 
 
 /* 视频 */
-#video-box {width:100%;position: relative;height: 547px;}
+#video-box {width:100%;position: relative;height: 547px;margin-top:35px;}
 #video-box img{width:100%;}
 #video-box .video-con{position: absolute;height:400px;width:50%;top:73px;left:50%;margin-left:-25%;}
 #video-box .video-con video{width:100%;height: 100%;}
