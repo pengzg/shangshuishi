@@ -13,11 +13,31 @@ body{background-color: #f0f0f0;}
 .content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#666;top:40px;}
 .content-item .content-head .content-head-title{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;}
 .content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
-.content-item .content-text {height:35px; font-size: 22px;font-weight: 600;line-height: 35px;background: #fff;text-align: center;margin:auto;}
+
+.content-item .content-text {height:35px; font-size: 22px;font-weight: 400;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:60px;margin-bottom: 15px;}
+
 .content-item .content-main {width:1000px;margin:auto;}
+
 .content-item .content-main .main-text{text-align: justify;}
+
 .content-item .content-main .main-pic img{width:300px;}
+
 .content-item .content-main .hlw-pic{width:100%;}
+
+.content-item .content-main .main-water-source>div{display: inline-block;vertical-align: top;width:300px;height: 170px;position: relative;}
+.content-item .content-main .main-water-source>div img{height: 170px;width:300px;}
+.content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;}
+/* 物业合作 */
+.content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:333px;height: 170px;background:#ccc;}
+.content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 40px;line-height: 40px;}
+.content-item .content-main .cooperation-box>div .coop-text{width:280px;margin-left:26.5px;}
+
+.content-item .content-main .partner-box>div{display: inline-block;vertical-align: top;height:300px;background:#ccc;}
+.content-item .content-main .partner-box .left-box{width:470px;}
+.content-item .content-main .partner-box .right-box{width:500px;margin-left: 25px;}
+.content-item .content-main .partner-box .right-box>div:nth-of-type(1){height: 40px;line-height: 40px;margin-top:40px;font-size: 22px;}
+.content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 40px;font-size: 20px;}
+/* 城市合伙人 */
 
 
 /* 视频 */
