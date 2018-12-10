@@ -10,12 +10,12 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 
 /* 公共样式 */
 .content-item {height: auto;width:100%;background:#fff;color:#000;}
-.content-item .content-head{width:100%;height: 90px;position: relative;}
+.content-item .content-head{width:100%;height: 90px;position: relative;margin-top:25px;}
 .content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#395eb7;top:40px;}
 .content-item .content-head .content-head-title{color:#024;position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
 .content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
 
-.content-item .content-text {font-family: "PingFangSC-Regular", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:20px;margin-bottom: 15px;}
+.content-item .content-text {font-family: "PingFangSC-Regular", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:40px;margin-bottom: 15px;}
 
 .content-item .content-main {width:1000px;margin:auto;margin-top:35px;}
 
@@ -61,9 +61,9 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 
 
 /* 视频 */
-#video-box {width:100%;position: relative;height: 547px;margin-top:35px;}
+#video-box {width:100%;position: relative;height: 497px;margin-top:35px;overflow: hidden;}
 #video-box img{width:100%;}
-#video-box .video-con{position: absolute;height:400px;width:50%;top:73px;left:50%;margin-left:-25%;}
+#video-box .video-con{position: absolute;height:400px;width:50%;top:25px;left:50%;margin-left:-25%;}
 #video-box .video-con video{width:100%;height: 100%;}
 
 /* 底部版权 */
