@@ -30,9 +30,9 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;font-weight: bold;color: white;opacity: 0.8;}
 .content-item .content-main .main-water-source>div>span.t-line{position: absolute;height: 60px;line-height: 30px;width:120px;top:55px;left:90px;text-align: center;background-color: #666;}
 /* 物业合作 */
-.content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:333px;height: 170px;background:#ccc;}
-.content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 64px;line-height: 64px;}
-.content-item .content-main .cooperation-box>div .coop-text{width:280px;margin-left:26.5px;}
+.content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:333px;height: 358px;background:#ccc;}
+.content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 64px;line-height: 64px;margin-top:30px;font-size: 22px;font-weight: bold;}
+.content-item .content-main .cooperation-box>div .coop-text{width:280px;margin-left:26.5px;line-height: 40px;text-align: justify;font-weight: bold;}
 /* 城市合伙人 */
 .content-item .content-main .partner-box>div{display: inline-block;vertical-align: top;height:300px;background:#ccc;}
 .content-item .content-main .partner-box .left-box{width:470px;}
