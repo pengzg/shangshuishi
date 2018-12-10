@@ -41,17 +41,17 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 40px;font-size: 20px;}
 .content-item .content-main .partner-text-box{width:800px;margin:auto;}
 .content-item .content-main .partner-text-box>div>div{display: inline-block;vertical-align: top;}
-.content-item .content-main .partner-text-box>div>div:nth-of-type(1){width: 150px;border-left:5px solid #0D6CA4;margin-top:8px;}
-.content-item .content-main .partner-text-box>div>div:nth-of-type(2){width: 600px;line-height: 40px;}
+.content-item .content-main .partner-text-box>div>div:nth-of-type(1){width: 150px;border-left:5px solid #0D6CA4;margin-top:8px;font-weight: bold;padding-left:10px;}
+.content-item .content-main .partner-text-box>div>div:nth-of-type(2){width: 500px;line-height: 40px;font-weight: 400;}
 /* 英才 */
-.content-item .content-main .yc-box{text-align: center;}
+.content-item .content-main .yc-box{text-align: center;background-image: url(../img/bg01.jpg);color:#fff;height: 265px;padding-top:30px;}
 .content-item .content-main .yc-box .job-box>div{display: inline-block;vertical-align: top;width:33%;}
 .content-item .content-main .yc-box .job-box>div>div:nth-of-type(1){width:100px;height: 100px;background-color: #666;border-radius: 50%;margin-left:115px;font-weight: 600;}
 .content-item .content-main .yc-box .job-box>div>div:nth-of-type(1)>div{font-weight: 600;color: white;line-height: 24px;}
 .content-item .content-main .yc-box .job-box>div>div:nth-of-type(1) .top-text{padding-top:24px;}
-.content-item .content-main .yc-box .job-box>div>div:nth-of-type(2) {line-height: 24px;margin-top:15px;}
+.content-item .content-main .yc-box .job-box>div>div:nth-of-type(2) {line-height: 24px;margin-top:35px;}
 .content-item .content-main .yc-box .job-box>div>div:nth-of-type(3) {line-height: 24px;}
-.content-item .content-main .yc-box .job-site{line-height: 24px;margin-top:10px;}
+.content-item .content-main .yc-box .job-site{line-height: 24px;margin-top:35px;}
 
 
 
@@ -65,7 +65,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 #video-box .video-con video{width:100%;height: 100%;}
 
 /* 底部版权 */
-#footer-div{width:100%;height: auto; color: white;background-color: #1D268B;padding-top:20px;}
+#footer-div{width:100%;height: auto; color: white;background-color: #1D268B;padding-top:20px;margin-top:45px;}
 #footer-div .qrcode-box{height: 100px;width: 100px;margin: auto;}
 #footer-div .copyright-box{font-size: 14px;text-align: center;line-height: 28px;height: 26px;}
 
