@@ -15,11 +15,11 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-head .content-head-title{color:#024;position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
 .content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
 
-.content-item .content-text {font-family: "PingFangSC-Regular", sans-serif; height:35px; font-size: 22px;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:20px;margin-bottom: 15px;}
+.content-item .content-text {font-family: "PingFangSC-Regular", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;background: #fff;text-align: center;margin:auto;margin-top:20px;margin-bottom: 15px;}
 
 .content-item .content-main {width:1000px;margin:auto;margin-top:35px;}
 
-.content-item .content-main .main-text{font-family: "PingFangSC-Regular", sans-serif;text-align: justify;margin-top:40px;font-weight: bold;line-height: 25px;}
+.content-item .content-main .main-text{font-family: "PingFangSC-Regular", sans-serif;text-align: justify;margin-top:40px;line-height: 25px;}
 
 .content-item .content-main .main-pic-product img{width:185px;margin-top:50px;height: 219px;}
 .content-item .content-main .main-pic img{width:299px;margin-top:50px;}
@@ -27,8 +27,8 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 
 .content-item .content-main .main-water-source>div{display: inline-block;vertical-align: top;width:299px;height: 170px;position: relative;}
 .content-item .content-main .main-water-source>div img{height: 170px;width:299px;}
-.content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;font-weight: bold;color: white;}
-.content-item .content-main .main-water-source>div>span.t-line{position: absolute;height: 60px;line-height: 30px;width:120px;top:55px;left:90px;text-align: center;background-color: #666;}
+.content-item .content-main .main-water-source>div>span{position: absolute;height: 40px;line-height: 40px;width:120px;top:65px;left:90px;text-align: center;background-color: #666;font-weight: bold;color: white;opacity: 0.9;}
+.content-item .content-main .main-water-source>div>span.t-line{position: absolute;height: 60px;line-height: 30px;width:120px;top:55px;left:90px;text-align: center;background-color: #666;color: #fff;;}
 /* 物业合作 */
 .content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:333px;height: 358px;background:#ccc;}
 .content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 64px;line-height: 64px;margin-top:30px;font-size: 22px;font-weight: bold;}
