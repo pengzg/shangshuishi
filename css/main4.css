@@ -34,7 +34,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 /* 物业合作 */
 .content-item .content-main .cooperation-box>div{display: inline-block;vertical-align: top;width:304px;height: 358px;background:#ccc;}
 .content-item .content-main .cooperation-box>div .coop-title{text-align: center;height: 64px;line-height: 64px;margin-top:30px;font-size: 22px;font-weight: bold;}
-.content-item .content-main .cooperation-box>div .coop-text{width:250px;margin-left:28px;line-height: 40px;text-align: justify;font-weight: bold;}
+.content-item .content-main .cooperation-box>div .coop-text{width:250px;margin-left:28px;line-height: 40px;text-align: justify;font-weight: bold;font-size: 14px;}
 /* 城市合伙人 */
 .content-item .content-main .partner-box>div{font-family: "PingFangSC-Regular", sans-serif;display: inline-block;vertical-align: top;height:300px;}
 .content-item .content-main .partner-box .left-box{width:426px;height: 248px;}
