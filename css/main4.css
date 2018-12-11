@@ -40,7 +40,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-main .partner-box .left-box{width:426px;height: 248px;}
 .content-item .content-main .partner-box .right-box{width:366px;margin-left: 25px;}
 .content-item .content-main .partner-box .right-box>div:nth-of-type(1){height: 40px;line-height: 40px;margin-top:32px;font-size: 22px;font-weight: bold;}
-.content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 22px;font-size: 18px;}
+.content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 25px;font-size: 18px;}
 .content-item .content-main .partner-text-box{font-family: "PingFangSC-Regular", sans-serif;width:532px;margin:auto;}
 .content-item .content-main .partner-text-box>div>div{display: inline-block;vertical-align: top;}
 .content-item .content-main .partner-text-box>div>div:nth-of-type(1){width: 97px;border-left:5px solid #0D6CA4;margin-top:8px;font-weight: bold;padding-left:10px;}
