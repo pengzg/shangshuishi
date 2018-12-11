@@ -12,8 +12,8 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item {height: auto;width:100%;color:#000;}
 .content-item .content-head{width:100%;height: 90px;position: relative;margin-top:43px;}
 .content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#395eb7;top:40px;}
-.content-item .content-head .content-head-title{color:#024;position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
-.content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
+.content-item .content-head .content-head-title{color:#024;position: absolute;width:14%;height:38px; left:50%;margin-left:-7%;font-size: 31px;font-weight: 600;line-height: 38px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
+.content-item .content-head .content-head-en{position: absolute;width:18%;height:35px; left:50%;margin-left:-9%;font-size: 31px;font-weight: 600;line-height: 35px;top:68px;background: #fff;text-align: center;}
 
 .content-item .content-text {font-family: "PingFangSC-Medium", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;text-align: center;margin:auto;margin-top:17px;margin-bottom: 15px;}
 
