@@ -73,14 +73,5 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 
 
 
-/* 轮播图 */
-#imgSwiper1{margin-top:0px;height:425px;}
-#imgSwiper1 .swiper-container {width: 100%;height: 425px;}
-#imgSwiper1 .swiper-wrapper img{ width: 100%;height: 425px;}
-
-/* 轮播图 */
-#imgSwiper2{margin-top:0px;height:425px;}
-#imgSwiper2 .swiper-container {width: 100%;height: 425px;}
-#imgSwiper2 .swiper-wrapper img{ width: 100%;height: 425px;}
 
 
