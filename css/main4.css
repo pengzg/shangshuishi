@@ -15,7 +15,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-head .content-head-title{color:#024;position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
 .content-item .content-head .content-head-en{position: absolute;width:10%;height:35px; left:50%;margin-left:-5%;font-size: 22px;font-weight: 600;line-height: 35px;top:55px;background: #fff;text-align: center;}
 
-.content-item .content-text {font-family: "PingFangSC-Regular", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;text-align: center;margin:auto;margin-top:17px;margin-bottom: 15px;}
+.content-item .content-text {font-family: "PingFangSC-Medium", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;text-align: center;margin:auto;margin-top:17px;margin-bottom: 15px;}
 
 .content-item .content-main {width:918px;margin:auto;margin-top:35px;}
 
@@ -40,7 +40,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item .content-main .partner-box .left-box{width:426px;height: 248px;}
 .content-item .content-main .partner-box .right-box{width:366px;margin-left: 25px;}
 .content-item .content-main .partner-box .right-box>div:nth-of-type(1){height: 40px;line-height: 40px;margin-top:32px;font-size: 22px;font-weight: bold;}
-.content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 25px;font-size: 18px;}
+.content-item .content-main .partner-box .right-box>div:nth-of-type(2){text-align: justify;line-height: 32px;font-size: 14px;}
 .content-item .content-main .partner-text-box{font-family: "PingFangSC-Regular", sans-serif;width:532px;margin:auto;}
 .content-item .content-main .partner-text-box>div>div{display: inline-block;vertical-align: top;}
 .content-item .content-main .partner-text-box>div>div:nth-of-type(1){width: 97px;border-left:5px solid #0D6CA4;margin-top:8px;font-weight: bold;padding-left:10px;}
