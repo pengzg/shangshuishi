@@ -1,10 +1,10 @@
 /* 上水石 author:pengzg  公共部分 */
-body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
+body{background-color: #f0f0f0;font-family:"PingFangSC-Semibold" , "sans-serif";}
 /* 头部 */
 #head-div{width:100%;margin:auto; height: auto;position: relative;text-align: center;}
 #head-div .head-bk{height:auto;width:100%;}
 #head-div>.head-nav{width:1171px;height: 120px;margin:auto;position:absolute;top:0px;margin-left:50%;left:-585.5px;}
-#head-div>.head-nav ul li{display: inline-block;font-size: 21px;line-height: 30px;width:13%;text-align: center;margin-top:28px;}
+#head-div>.head-nav ul li{display: inline-block;font-size: 19px;line-height: 30px;width:13%;text-align: center;margin-top:28px;}
 #head-div>.head-nav ul li a{color:#fff;font-weight: 600;} 
 #head-div .logo{position: absolute;left:50%;margin-left:-40px;top:0px;}
 
@@ -12,14 +12,14 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 .content-item {height: auto;width:100%;color:#000;}
 .content-item .content-head{width:100%;height: 90px;position: relative;margin-top:43px;}
 .content-item .content-head .content-head-line{position: absolute;width:30%;height:5px; left:50%;margin-left:-15%;background:#395eb7;top:40px;}
-.content-item .content-head .content-head-title{color:#024;position: absolute;width:14%;height:38px; left:50%;margin-left:-7%;font-size: 31px;font-weight: 600;line-height: 38px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
-.content-item .content-head .content-head-en{position: absolute;width:18%;height:35px; left:50%;margin-left:-9%;font-size: 31px;font-weight: 600;line-height: 35px;top:68px;background: #fff;text-align: center;}
+.content-item .content-head .content-head-title{color:#024;position: absolute;width:14%;height:38px; left:50%;margin-left:-7%;font-size: 29px;font-weight: 600;line-height: 38px;top:25px;background: #fff;text-align: center;font-family: "PingFangTC-Medium", sans-serif;}
+.content-item .content-head .content-head-en{position: absolute;width:18%;height:35px; left:50%;margin-left:-9%;font-size: 29px;font-weight: 600;line-height: 35px;top:68px;background: #fff;text-align: center;}
 
-.content-item .content-text {font-family: "PingFangSC-Medium", sans-serif; height:35px; font-size: 22px;font-weight: bold;line-height: 35px;text-align: center;margin:auto;margin-top:17px;margin-bottom: 15px;}
+.content-item .content-text {font-family: "PingFangSC-Semibold", sans-serif; height:35px; font-size: 19px;font-weight: bold;line-height: 35px;text-align: center;margin:auto;margin-top:17px;margin-bottom: 15px;}
 
 .content-item .content-main {width:918px;margin:auto;margin-top:35px;}
 
-.content-item .content-main .main-text{font-family: "PingFangSC-Regular", sans-serif;text-align: justify;margin-top:40px;line-height: 24px;font-size: 14px;}
+.content-item .content-main .main-text{font-family: "PingFangSC-Semibold", sans-serif;text-align: justify;margin-top:40px;line-height: 24px;font-size: 14px;}
 
 .content-item .content-main .main-pic-product img{width:166px;margin-top:50px;height: 219px;}
 .content-item .content-main .main-pic img{width:289px;margin-top:63px;}
@@ -69,7 +69,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Medium" , "sans-serif";}
 /* 底部版权 */
 #footer-div{width:100%;height: auto; color: white;background-color: #0f1f39;padding-top:20px;margin-top:45px;font-family: "PingFangSC-Semibold", sans-serif;}
 #footer-div .qrcode-box{height: 100px;width: 100px;margin: auto;}
-#footer-div .copyright-box{font-size: 14px;text-align: center;line-height: 28px;height: 26px;}
+#footer-div .copyright-box{font-size: 12px;text-align: center;line-height: 28px;height: 26px;}
 
 
 
