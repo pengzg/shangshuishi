@@ -65,6 +65,10 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Semibold" , "sans-serif";
 #video-box img{width:100%;}
 #video-box .video-con{position: absolute;height:400px;width:50%;top:25px;left:50%;margin-left:-25%;}
 #video-box .video-con video{width:100%;height: 100%;}
+#video-box .video-con2{position: absolute;height:400px;width:100%;top:25px;}
+#video-box .video-con2>div{display: inline-block;vertical-align: top;width: 33%;height: 400px;}
+#video-box .video-con2>div>video{width:100%;height: 100%;}
+
 
 /* 底部版权 */
 #footer-div{width:100%;height: auto; color: white;background-color: #0f1f39;padding-top:20px;margin-top:45px;font-family: "PingFangSC-Semibold", sans-serif;}
