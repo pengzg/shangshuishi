@@ -20,6 +20,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Semibold" , "sans-serif";
 .content-item .content-main {width:918px;margin:auto;margin-top:35px;}
 
 .content-item .content-main .main-text{font-family: "PingFangSC-Semibold", sans-serif;text-align: justify;margin-top:40px;line-height: 24px;font-size: 14px;}
+.content-item .content-main .main-text p{margin-bottom: 8px;}
 
 .content-item .content-main .main-pic-product img{width:166px;margin-top:50px;height: 219px;}
 .content-item .content-main .main-pic img{width:289px;margin-top:63px;}
