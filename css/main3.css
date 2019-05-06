@@ -6,7 +6,7 @@ body{background-color: #f0f0f0;font-family:"PingFangSC-Semibold" , "sans-serif";
 #head-div>.head-nav{width:1171px;height: 120px;margin:auto;position:absolute;top:0px;margin-left:50%;left:-585.5px;}
 #head-div>.head-nav ul li{display: inline-block;font-size: 19px;line-height: 30px;width:13%;text-align: center;margin-top:28px;}
 #head-div>.head-nav ul li a{color:#fff;font-weight: 600;} 
-#head-div .logo{position: absolute;left:50%;margin-left:-40px;top:0px;}
+#head-div .logo{position: absolute;left:50%;margin-left:-40px;top:15px;}
 
 /* 公共样式 */
 .content-item {height: auto;width:100%;color:#000;}
